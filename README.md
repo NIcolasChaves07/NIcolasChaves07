@@ -35,7 +35,7 @@ Foco em:
 ## 🚀 Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,androidstudio,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,git,github,vscode" />
 </p>
 
 
