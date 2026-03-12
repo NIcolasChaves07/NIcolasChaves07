@@ -40,11 +40,18 @@ Aplicação web com carrinho de compras, backend em PHP e integração com banco
 🔹 Sistema de autenticação de usuários  
 Sistema completo de login com sessões e verificação de credenciais.
 
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasChaves07&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
 ## 🚀 Tecnologias
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,git,github,vscode" />
 </p>
+
 
 
 <!--
