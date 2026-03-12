@@ -1,11 +1,7 @@
 <div align="center">
-
-
-<div>
 <p align="center">
 <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000008c90720e9c94df3d4649158e&ts=492592&p=fs&cid=1&sig=0f2b6a7612c61c4adcfce0e086b137b2343102aec3505f19db9b0d8d3a2760d6&v=0" width="100%" />
 </p>
-</div>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;Web+Developer;Building+Real+Projects" />
 
