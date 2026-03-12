@@ -52,7 +52,8 @@ Sistema completo de login com sessões e verificação de credenciais.
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,git,github,vscode" />
 </p>
 
-
+📧 Email: nicolaseregina@gmail.com
+💻 GitHub: https://github.com/NicolasChaves07
 
 <!--
 **NIcolasChaves07/NIcolasChaves07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
