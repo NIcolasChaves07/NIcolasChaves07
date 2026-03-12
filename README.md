@@ -19,9 +19,24 @@ Atualmente estou focado em evoluir minhas habilidades em:
 - Backend
 - Sistemas completos
 
+## 🎓 Formação
 
+📚 **Engenharia de Software**  
+2025 — 2028
 
+Foco em:
 
+- Estrutura de dados
+- Arquitetura de softwares
+- Engenharia de sistemas
+- Desenvolvimento full stack
+- Desevolvimento web
+
+## 🚀 Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,androidstudio,git,github,vscode" />
+</p>
 
 
 <!--
