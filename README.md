@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="assets/imagem_perfil.png" alt="Banner Nicolas Chaves" width="100%" height="60%>
+  <img src="assets/imagem_perfil.png" alt="Banner Nicolas Chaves" width="100%" height="40%>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;Web+Developer;Building+Real+Projects" />
