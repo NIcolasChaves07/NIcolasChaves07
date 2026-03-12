@@ -32,6 +32,14 @@ Foco em:
 - Desenvolvimento full stack
 - Desevolvimento web
 
+## 📌 Projetos em Destaque
+
+🔹 Sistema de pedidos para pastelaria  
+Aplicação web com carrinho de compras, backend em PHP e integração com banco de dados.
+
+🔹 Sistema de autenticação de usuários  
+Sistema completo de login com sessões e verificação de credenciais.
+
 ## 🚀 Tecnologias
 
 <p>
