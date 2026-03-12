@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Meu nome é **Nicolas Chaves**.
+Olá! Meu nome é **Nicolas Dos Santos Chaves**.
 
 Sou estudante de **Engenharia de Software (2025 - 2028)** e apaixonado por tecnologia, desenvolvimento de sistemas e criação de soluções digitais.
 
