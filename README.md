@@ -71,9 +71,9 @@ Sistema completo de login com sessões e verificação de credenciais.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasChaves07&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=NicolasChaves07&color=blue"/>
-</p>
+</p> -->
 
 </div>
 
