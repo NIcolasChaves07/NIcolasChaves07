@@ -56,7 +56,12 @@ Aplicação web com carrinho de compras, backend em PHP e integração com banco
 
 Sistema de pedidos desenvolvido para estudo e prática de desenvolvimento Full Stack.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicolasChaves07&repo=pastelaria_design)](https://github.com/NicolasChaves07/pastelaria_design)
+<div align="center">
+
+<a href="https://github.com/NicolasChaves07/pastelaria_design">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasChaves07&repo=pastelaria_design&theme=tokyonight&border_radius=10"/>
+</a>
+</div>
 
 🔹 **Sistema de autenticação de usuários**
 Sistema completo de login com sessões e verificação de credenciais.
