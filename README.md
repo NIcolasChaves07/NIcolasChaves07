@@ -1,4 +1,16 @@
-## Hi there 👋
+<h1 align="center">Nicolas Chaves</h1>
+<h3 align="center">Software Engineering Student | Developer</h3>
+
+<p align="center">
+Futuro Engenheiro de Software focado em desenvolvimento de sistemas e aplicações.
+</p>
+
+
+
+
+
+
+
 
 <!--
 **NIcolasChaves07/NIcolasChaves07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
