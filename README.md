@@ -1,6 +1,11 @@
 <div align="center">
 
-# 👨‍💻 Nicolas Chaves
+
+<div>
+<p align="center">
+<img src="file:///C:/Users/usu%C3%A1rio/Pictures/imagem_perfil.png" width="100%" />
+</p>
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;Web+Developer;Building+Real+Projects" />
 
