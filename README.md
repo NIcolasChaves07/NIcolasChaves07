@@ -67,7 +67,12 @@ Sistema completo de login com sessões e verificação de credenciais.
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasChaves07&layout=compact&theme=tokyonight"/>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasChaves07&theme=tokyonight"/>
+</p>
+
 </div>
+
 
 ---
 
