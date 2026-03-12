@@ -51,16 +51,22 @@ Foco em:
 
 ## 📌 Projetos em Destaque
 
-🔹 **Sistema de pedidos para pastelaria**
-Aplicação web com carrinho de compras, backend em PHP e integração com banco de dados.
-
-Sistema de pedidos desenvolvido para estudo e prática de desenvolvimento Full Stack.
-
 <div align="flex-start" bottom="12px">
+<table>
+<tr>
+
+<td align="center">
+
+### 🍔 Sistema de pedidos para pastelaria
+
+Aplicação web com carrinho de compras e backend em PHP.
 
 <a href="https://github.com/NicolasChaves07/pastelaria_design">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasChaves07&repo=pastelaria_design&theme=tokyonight&border_radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasChaves07&repo=pastelaria_design&theme=tokyonight"/>
 </a>
+
+</td>
+</table>
 </div>
 
 🔹 **Sistema de autenticação de usuários**
