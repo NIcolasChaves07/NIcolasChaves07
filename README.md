@@ -5,7 +5,19 @@
 Futuro Engenheiro de Software focado em desenvolvimento de sistemas e aplicações.
 </p>
 
+## 👨‍💻 Sobre mim
 
+Olá! Meu nome é Nicolas Chaves.
+
+Sou estudante de **Engenharia de Software (2025 - 2028)** e apaixonado por tecnologia, desenvolvimento de sistemas e criação de soluções digitais.
+
+Gosto de desenvolver projetos próprios, explorar novas tecnologias e construir aplicações que resolvam problemas reais.
+
+Atualmente estou focado em evoluir minhas habilidades em:
+
+- Desenvolvimento Web
+- Backend
+- Sistemas completos
 
 
 
