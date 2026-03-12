@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;Web+Developer;Building+Real+Projects" />
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 </div>
 
 ---
@@ -84,6 +88,16 @@ Sistema completo de login com sessões e verificação de credenciais.
 
 ---
 
+## 🏆 Conquistas do GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NicolasChaves07&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -100,9 +114,26 @@ Sistema completo de login com sessões e verificação de credenciais.
 
 ---
 
+## 📊 Gráfico de atividade
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasChaves07&theme=tokyo-night"/>
+
+---
+
+## 🐍 Contribuições (snake animation)
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
 ## 📫 Contato
 
-📧 **Email:** [nicolaseregina@gmail.com](mailto:nicolaseregina@gmail.com)
+📧 **Email:**
+[nicolaseregina@gmail.com](mailto:nicolaseregina@gmail.com)
 
 💻 **GitHub:**
 https://github.com/NicolasChaves07
