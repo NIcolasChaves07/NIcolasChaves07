@@ -56,7 +56,7 @@ Aplicação web com carrinho de compras, backend em PHP e integração com banco
 
 Sistema de pedidos desenvolvido para estudo e prática de desenvolvimento Full Stack.
 
-<div align="center">
+<div align="flex-start">
 
 <a href="https://github.com/NicolasChaves07/pastelaria_design">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasChaves07&repo=pastelaria_design&theme=tokyonight&border_radius=10"/>
