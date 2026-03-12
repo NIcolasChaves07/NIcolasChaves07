@@ -1,7 +1,8 @@
 <div align="center">
-<p align="center">
-  <img src="assets/imagem_perfil.png" alt="Banner Nicolas Chaves" width="100%">
-</p>
+
+<img src="assets/imagem_perfil.png" alt="Banner Nicolas Chaves" width="75%">
+
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;Web+Developer;Building+Real+Projects" />
 
@@ -52,23 +53,31 @@ Foco em:
 
 ## 📌 Projetos em Destaque
 
-<div align="flex-start" bottom="12px">
+<div align="center">
+
 <table>
+
 <tr>
 
-<td align="center">
+<td align="center" width="400">
 
 ### 🍔 Sistema de pedidos para pastelaria
 
 Aplicação web com carrinho de compras e backend em PHP.
 
 <a href="https://github.com/NicolasChaves07/pastelaria_design">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasChaves07&repo=pastelaria_design&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasChaves07&repo=pastelaria_design&theme=tokyonight&border_radius=10"/>
 </a>
 
 </td>
+
+</tr>
+
 </table>
+
 </div>
+
+<br>
 
 🔹 **Sistema de autenticação de usuários**
 Sistema completo de login com sessões e verificação de credenciais.
@@ -83,16 +92,11 @@ Sistema completo de login com sessões e verificação de credenciais.
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasChaves07&layout=compact&theme=tokyonight"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasChaves07&theme=tokyonight"/>
-</p>
+<br><br>
 
-<!-- <p align="center">
-<img src="https://komarev.com/ghpvc/?username=NicolasChaves07&color=blue"/>
-</p> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasChaves07&theme=tokyonight"/>
 
 </div>
-
 
 ---
 
@@ -110,19 +114,3 @@ https://github.com/NicolasChaves07
 ⭐ Obrigado por visitar meu perfil!
 
 </div>
-
-
-<!--
-**NIcolasChaves07/NIcolasChaves07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
