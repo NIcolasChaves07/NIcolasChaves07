@@ -74,7 +74,7 @@ Aplicação web com carrinho de compras e backend em PHP.
 </a>
 
 </td>
-<td align="center" width="400">
+<td align="center" width="400" a href="https://github.com/NicolasChaves07/GNSystem"></a>>
 
 ### 📘 GNSystem - Diário de APS
 
