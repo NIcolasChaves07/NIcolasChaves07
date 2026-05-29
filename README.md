@@ -70,7 +70,7 @@ Foco em:
 Aplicação web com carrinho de compras e backend em PHP.
 
 <a href="https://github.com/NicolasChaves07/pastelaria_design">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasChaves07&repo=pastelaria_design&theme=tokyonight&border_radius=10"/>
+<img src="https://img.shields.io/badge/Acessar%20Repositório-010409?style=for-the-badge&logo=github&logoColor=white&edge_flat=true"/>
 </a>
 
 </td>
@@ -81,7 +81,7 @@ Aplicação web com carrinho de compras e backend em PHP.
 Repositório com registros e materiais das aulas de Análise e Projetos de Sistemas.
 
 <a href="https://github.com/NicolasChaves07/GNSystem">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasChaves07&repo=pastelaria_design&theme=tokyonight&border_radius=10"/>
+<img src="https://img.shields.io/badge/Acessar%20Repositório-010409?style=for-the-badge&logo=github&logoColor=white&edge_flat=true"/>
 </a>
 
 </td>
@@ -89,7 +89,6 @@ Repositório com registros e materiais das aulas de Análise e Projetos de Siste
 </tr>
 
 </table>
-
 </div>
 
 <br>
