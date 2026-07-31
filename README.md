@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/imagem_perfil.png" alt="Banner Nicolas" width="75%">
-
 <br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;Web+Developer;Building+Real+Projects" />
