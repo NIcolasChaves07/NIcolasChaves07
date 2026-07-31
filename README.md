@@ -140,9 +140,6 @@ Sistema completo de login com sessões e verificação de credenciais.
 
 ## 📫 Contato
 
-📧 **Email:**
-[nicolaseregina@gmail.com](mailto:nicolaseregina@gmail.com)
-
 💻 **GitHub:**
 https://github.com/NicolasChaves07
 
