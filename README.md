@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/imagem_perfil.png" alt="Banner Nicolas Chaves" width="75%">
+<img src="assets/imagem_perfil.png" alt="Banner Nicolas" width="75%">
 
 <br><br>
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Meu nome é **Nicolas Dos Santos Chaves**.
+Olá! Meu nome é **Nicolas**.
 
 Sou estudante de **Engenharia de Software (2025 - 2028)** e apaixonado por tecnologia, desenvolvimento de sistemas e criação de soluções digitais.
 
